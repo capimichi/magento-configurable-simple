@@ -1,0 +1,8 @@
+{
+    "name": "capimichi/magento-configurable-simple",
+    "type": "magento-module",
+    "description": "",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
